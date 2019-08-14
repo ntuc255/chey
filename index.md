@@ -117,13 +117,6 @@ end
 
 <video src="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Dance.mp4" poster="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Opening.jpg" width="320" height="200" controls preload></video>
 
-<iframe src="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Dance.mp4" 
-    width="560" 
-    height="315"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
-
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
