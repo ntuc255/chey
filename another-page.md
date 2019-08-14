@@ -6,10 +6,6 @@ layout: default
 
 _yay_
 
----
-
- {% include disqus.html %}
-
 ----
 <div class="comments">
 	<div id="disqus_thread"></div>
