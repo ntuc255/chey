@@ -11,7 +11,7 @@ _yay_
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
 
-	    var disqus_shortname = 'https-254richard254-github-io';
+	    var disqus_shortname = 'https-ntuc255-github-io-chey-another-page-html';
 
 	    (function() {
 	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
