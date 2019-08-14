@@ -115,9 +115,9 @@ end
 </dl>
 
 
-<video src="https://raw.githubusercontent.com/ntuc255/chey/master/chey/Dance.mp4" poster="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Opening.jpg" width="320" height="200" controls preload></video>
+<video src="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Dance.mp4" poster="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Opening.jpg" width="320" height="200" controls preload></video>
 
-<iframe src="https://raw.githubusercontent.com/ntuc255/chey/master/chey/Dance.mp4" 
+<iframe src="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Dance.mp4" 
     width="560" 
     height="315"
     frameborder="0" 
