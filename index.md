@@ -116,10 +116,7 @@ end
 
 
 
-<video poster="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Opening.jpg" width="618" height="347" controls preload> 
-    <source src="https://raw.githubusercontent.com/ntuc255/chey/master/chey/Dance.mp4" media="only screen and (min-device-width: 568px)"></source> 
-</video>
-
+<video src=""https://raw.githubusercontent.com/ntuc255/chey/master/chey/Dance.mp4" poster="https://raw.githubusercontent.com/ntuc255/chey/master/assets/chey/Opening.jpg" width="320" height="200" controls preload></video>
 
 
 ```
