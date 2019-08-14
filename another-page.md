@@ -7,4 +7,6 @@ layout: default
 _yay_
 
 
+ {% include disqus.html %}
+
 [back](./)
